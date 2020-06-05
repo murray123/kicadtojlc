@@ -12,6 +12,8 @@ gcc -o kicadtojlc kicadtojlc.c
 parrameters:
 
   InputFilename.pos : normal operation, Kicad.pos input file entered.
-  -help             : Information             
+  -help             : Information
   -convert          : Create a sample part_conversion.txt file
   
+  
+    
