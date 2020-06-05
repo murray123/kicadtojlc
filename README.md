@@ -9,7 +9,7 @@ gcc -o kicadtojlc kicadtojlc.c
   	  	  	   This allows standard KICAD footprints to translate to JLCpcb's placement system.
   	  	  	   This file is plain text and can be user modified to accommodate all types of components.
                
-parrameters:
+parameters:
 
   InputFilename.pos : normal operation, Kicad.pos input file entered.
   
