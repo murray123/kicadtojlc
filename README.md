@@ -1,5 +1,5 @@
 # kicadtojlc
-Kicad bom and cpl file conversion for JCLpcb
+Kicad .pos file to .bom and .cpl file conversion for JCLpcb
 
 To compile on a linux system using GCC:
 gcc -o kicadtojlc kicadtojlc.c 
